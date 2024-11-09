@@ -30,7 +30,7 @@ twitter_username: anunnak1an
 github_username:  anunnakian
 
 # Build settings
-theme: jekyll-theme-cayman
+remote-theme: cayman
 plugins:
   - jekyll-feed
 
